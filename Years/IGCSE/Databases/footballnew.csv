@@ -1,0 +1,97 @@
+Number,Name,Position,Club,Nationality,DOB,Contract Expiry,Value,weekly Salary,Goals,Goal Bonus,Clean Sheets,Bonus,Sponsor
+1,Lionel Messi,Forward,Barcelona,Argentina,24/06/1987,01/06/2014,85000000,175000,55,5000,0,0,Yes
+2,Cristiano Ronaldo,Forward,Real Madrid,Portugal,05/02/1985,01/06/2014,80000000,175000,60,6000,0,0,Yes
+3,Xavi,Midfielder,Barcelona,Spain,25/01/1980,01/06/2015,20000000,100000,2,1000,0,0,No
+4,Andres Iniesta,Midfielder,Barcelona,Spain,11/05/1984,01/06/2015,20000000,90000,5,1000,0,0,No
+5,Zlatan Ibrahimovic,Forward,PSG,Sweden,03/10/1981,01/06/2017,55000000,150000,44,2000,0,0,No
+6,Radamel Falcao,Forward,Atletico Madrid,Colombia,10/02/1986,01/06/2014,50000000,100000,37,4000,0,0,No
+7,Robin van Persie,Forward,Man Utd,Netherlands,06/08/1983,01/06/2014,25000000,130000,34,5000,0,0,No
+8,Andrea Pirlo,Midfielder,Juventus,Italy,19/05/1979,01/06/2014,20000000,140000,1,1000,0,0,No
+9,Yaya Toure,Midfielder,Man City,Ivory Coast,13/05/1983,01/06/2015,30000000,120000,10,1000,0,0,No
+10,Edinson Cavani,Forward,Napoli,Uruguay,14/02/1987,01/06/2015,50000000,120000,29,4000,0,0,Yes
+11,Sergio Aguero,Forward,Man City,Argentina,02/06/1988,01/06/2017,40000000,130000,25,2000,0,0,No
+12,Iker Casillas,Goalkeeper,Real Madrid,Spain,20/05/1981,01/06/2014,10000000,140000,0,1000,12,5000,No
+13,Neymar,Forward,Santos,Brazil,05/02/1992,01/06/2014,50000000,178000,15,4000,0,0,No
+14,Sergio Busquets,Defender/midfielder,Barcelona,Spain,16/07/1988,01/06/2014,22000000,70000,0,1000,0,0,No
+15,Xabi Alonso,Midfielder,Real Madrid,Spain,25/11/1988,01/06/2015,12000000,800000,0,1000,0,0,No
+16,Thiago Silva,Defender,PSG,Brazil,22/09/1984,01/06/2015,17000000,150000,0,1000,0,0,Yes
+17,Mesut Ozil,Midfielder,Real Madrid,Germany,15/10/1988,01/06/2017,40000000,130000,5,1000,0,0,No
+18,David Silva,Midfielder/forward,Man City,Spain,08/01/1986,01/06/2014,30000000,120000,10,2000,0,0,No
+19,Bastian Schweinsteiger,Midfielder,Bayern Munich,Germany,01/08/1984,01/06/2014,30000000,160000,3,1000,0,0,No
+20,Gianluigi Buffon,Goalkeeper,Juventus,Italy,28/01/1978,01/06/2014,10000000,50000,0,1000,14,3000,Yes
+21,Luis Suarez,Forward,Liverpool,Uruguay,24/01/1987,01/06/2015,50000000,130000,22,2000,0,0,No
+22,Sergio Ramos,Defender,Real Madrid,Spain,30/03/1986,01/06/2015,20000000,120000,0,1000,0,0,No
+23,Vincent Kompany,Defender,Man City,Belgium,10/04/1986,01/06/2017,23000000,160000,0,1000,0,0,No
+24,Gerard Pique,Defender,Barcelona,Spain,02/02/1987,01/06/2014,26000000,150000,0,1000,0,0,No
+25,Philipp Lahm,Defender,Bayern Munich,Germany,11/11/1987,01/06/2014,21000000,130000,6,1000,0,0,No
+26,Willian,Midfielder,Shakhtar Donetsk,Brazil,09/08/1988,01/06/2014,30000000,110000,7,1000,0,0,Yes
+27,Marco Reus,Forward,Borussia Dortmund,Germany,31/05/1989,01/06/2015,30000000,70000,15,3000,0,0,No
+28,Franck Ribery,Midfielder,Bayern Munich,France,07/04/1983,01/06/2015,40000000,120000,12,2000,0,0,No
+29,Manuel Neuer,Goalkeeper,Bayern Munich,Germany,27/03/1986,01/06/2017,14000000,100000,0,1000,15,2000,No
+30,Ashley Cole,Defender,Chelsea,England,20/12/1980,01/06/2014,5000000,70000,0,1000,0,0,No
+31,Wayne Rooney,Forward,Man Utd,England,24/10/1985,01/06/2014,27000000,150000,24,3000,0,0,No
+32,Juan Mata,Midfielder,Chelsea,Spain,28/04/1988,01/06/2014,22000000,120000,10,1000,0,0,No
+33,Thomas Muller,Forward,Bayern Munich,Germany,13/09/1989,01/06/2015,25000000,130000,19,3000,0,0,No
+34,Mario Gotze,Midfielder,Borussia Dortmund,Germany,03/06/1992,01/06/2015,30000000,150000,12,2000,0,0,No
+35,Karim Benzema,Forward,Real Madrid,France,19/12/1987,01/06/2017,20000000,90000,22,3000,0,0,No
+36,Cesc Fabregas,Midfielder,Barcelona,Spain,04/04/1987,01/06/2014,36000000,120000,12,2000,0,0,No
+37,Oscar,Midfielder,Chelsea,Brazil,03/10/1993,01/06/2014,15000000,130000,0,1000,0,0,No
+38,Fernandinho,Midfielder,Shakhtar Donetsk,Brazil,04/05/1985,01/06/2014,29000000,120000,5,1000,0,0,Yes
+39,Javier Mascherano,Midfielder,Barcelona,Argentina,08/06/1984,01/06/2015,12000000,110000,0,1000,0,0,No
+40,Gareth Bale,Defender,Tottenham,Wales,06/07/1989,01/06/2015,12000000,120000,25,5000,0,0,No
+41,Javier Zanetti,Midfielder,Internazionale,Argentina,10/08/1973,01/06/2017,15000000,140000,0,1000,0,0,No
+42,Daniele De Rossi,Midfielder,Roma,Italy,24/07/1983,01/06/2014,10000000,150000,0,1000,0,0,No
+43,Dani Alves,Defender,Barcelona,Brazil,06/05/1983,01/06/2014,23000000,160000,1,1000,0,0,Yes
+44,Petr Cech,Goalkeeper,Chelsea,Czech Republic,20/05/1982,01/06/2014,22000000,110000,0,1000,5,1000,No
+45,Mats Hummels,Defender,Borussia Dortmund,Germany,12/12/1988,01/06/2015,24000000,70000,2,1000,0,0,No
+46,Carles Puyol,Defender,Barcelona,Spain,13/04/1978,01/06/2015,5000000,150000,0,1000,0,0,No
+47,Angel Di Maria,Midfielder,Real Madrid,Argentina,14/02/1988,01/06/2017,20000000,90000,2,1000,0,0,No
+48,Carlos Tevez,Forward,Man City,Argentina,05/12/1984,01/06/2014,18000000,100000,16,3000,0,0,No
+49,Didier Drogba,Forward,Shanghai Shenhua,Ivory Coast,11/03/1978,01/06/2014,6000000,110000,12,2000,0,0,No
+50,Giorgio Chiellini,Defender,Juventus,Italy,14/08/1984,01/06/2014,8000000,60000,0,1000,0,0,No
+51,Marcelo,Defender,Real Madrid,Brazil,12/05/1988,01/06/2015,20000000,80000,0,1000,0,0,No
+52,Stephan El Shaarawy,Forward,Milan,Italy,27/10/1992,01/06/2015,16000000,75000,19,2000,0,0,No
+53,Toni Kroos,Midfielder,Bayern Munich,Germany,04/01/1990,01/06/2017,29000000,66000,12,2000,0,0,Yes
+54,Samuel Eto’o,Forward,Anzhi Makhachkala,Cameroon,10/03/1981,01/06/2014,2000000,140000,22,3000,0,0,No
+55,Jordi Alba,Midfielder,Barcelona,Spain,21/03/1989,01/06/2014,24000000,80000,2,1000,0,0,No
+56,Mario Gomez,Forward,Bayern Munich,Germany,10/07/1985,01/06/2014,30000000,120000,12,2000,0,0,No
+57,Arturo Vidal,Midfielder,Juventus,Chile,22/05/1987,01/06/2015,35000000,50000,7,1000,0,0,No
+58,Eden Hazard,Midfielder,Chelsea,Belgium,07/01/1991,01/06/2015,35000000,160000,12,2000,0,0,No
+59,James Rodriguez,Midfielder,Porto,Colombia,21/07/1991,01/06/2017,22000000,90000,4,1000,0,0,Yes
+60,Marouane Fellaini,Midfielder,Everton,Belgium,22/11/1987,01/06/2014,23000000,90000,0,1000,0,0,No
+61,Ramires,Midfielder,Chelsea,Brazil,24/03/1987,01/06/2014,17000000,120000,0,1000,0,0,No
+62,David Villa,Forward,Barcelona,Spain,03/12/1981,01/06/2014,5000000,80000,22,4000,0,0,No
+63,Klaas Jan Huntelaar,Forward,Schalke,Netherlands,12/08/1983,01/06/2015,13000000,60000,18,2000,0,0,No
+64,Nemanja Vidic,Defender,Man Utd,Serbia,21/10/1981,01/06/2015,7000000,122000,2,1000,0,0,No
+65,Joe Hart,Goalkeeper,Man City,England,19/04/1987,01/06/2017,8000000,60000,0,1000,4,1000,No
+66,Arjen Robben,Midfielder,Bayern Munich,Netherlands,23/01/1984,01/06/2014,19000000,120000,13,2000,0,0,No
+67,Mario Balotelli,Forward,Man City,Italy,12/08/1990,01/06/2014,20000000,140000,17,4000,0,0,No
+68,Mathieu Valbuena,Midfielder,Marseille,France,28/09/1984,01/06/2014,23000000,70000,1,1000,0,0,No
+69,Pierre-Emerick Aubameyang,Forward,St Etienne,Gabon,24/01/1987,01/06/2015,13000000,70000,19,2000,0,0,No
+70,Robert Lewandowski,Forward,Borussia Dortmund,Poland,21/08/1988,01/06/2015,13000000,120000,35,2000,0,0,No
+71,Hernanes,Midfielder,Lazio,Brazil,29/05/1985,01/06/2017,12000000,120000,1,1000,0,0,Yes
+72,Pedro,Forward,Barcelona,Spain,03/10/1989,01/06/2014,17000000,140000,19,5000,0,0,No
+73,Santi Cazorla,Midfielder,Arsenal,Spain,13/12/1984,01/06/2014,16000000,70000,1,1000,0,0,No
+74,Christian Eriksen,Midfielder,Ajax,Denmark,14/02/1992,01/06/2014,8000000,50000,12,4000,0,0,No
+75,Ezequiel Lavezzi,Forward,PSG,Argentina,03/05/1985,01/06/2015,20000000,120000,23,3000,0,0,No
+76,Joao Moutinho,Midfielder,Porto,Portugal,08/09/1986,01/06/2015,22000000,140000,2,1000,0,0,No
+77,Mario Mandžuki,Forward,Bayern Munich,Croatia,29/05/1986,01/06/2017,24000000,50000,15,2000,0,0,Yes
+78,Patrice Evra,Defender,Man Utd,France,15/05/1981,01/06/2014,7000000,80000,4,1000,0,0,Yes
+79,David Luiz,Defender,Chelsea,Brazil,22/04/1987,01/06/2014,25000000,110000,1,1000,0,0,No
+80,Luka Modric,Midfielder,Real Madrid,Croatia,09/09/1985,01/06/2014,22000000,80000,2,1000,0,0,No
+81,Victor Wanyama,Midfielder,Celtic,Kenya,25/06/1991,01/06/2015,9000000,50000,2,1000,0,0,Yes
+82,Mapou Yanga-M'Biwa,Defender,Montpelier,France,15/05/1989,01/06/2015,10000000,60000,1,1000,0,0,No
+83,Hulk,Forward,Zenit St Petersburg,Brazil,11/08/1983,01/06/2017,22000000,120000,25,3000,0,0,No
+84,Darijo Srna,Midfielder,Shakhtar Donetsk,Croatia,01/05/1982,01/06/2014,12000000,110000,12,2000,0,0,Yes
+85,Emmanuel Mayuka,Forward,Southampton,Zambia,21/11/1990,01/06/2014,14000000,10000,19,2000,0,0,No
+86,John Terry,Defender,Chelsea,England,07/12/1980,01/06/2014,4000000,130000,2,1000,0,0,No
+87,Kwadwo Asamoah,Midfielder,Juventus,Ghana,09/12/1988,01/06/2015,7000000,80000,2,1000,0,0,Yes
+88,Leonardo Bonucci,Defender,Juventus,Italy,01/05/1987,01/06/2015,9000000,80000,2,1000,0,0,No
+89,Javier Pastore,Midfielder,PSG,Argentina,20/06/1989,01/06/2017,22000000,90000,3,1000,0,0,No
+90,Henrikh Mkhitaryan,Midfielder,Shakhtar Donetsk,Armenia,21/01/1989,01/06/2014,12000000,80000,2,1000,0,0,Yes
+92,Hatem Ben Arfa,Midfielder,Newcastle,France,07/12/1987,01/06/2014,19000000,60000,12,3000,0,0,No
+93,Samir Nasri,Midfielder,Man City,France,26/06/1987,01/06/2014,24000000,130000,12,3000,0,0,No
+94,Shinji Kagawa,Midfielder,Man Utd,Japan,17/03/1989,01/06/2015,17000000,80000,2,1000,0,0,Yes
+95,Wesley Sneijder,Midfielder,Internazionale,Netherlands,09/06/1989,01/06/2015,10000000,140000,4,1000,0,0,No
+96,Pepe,Defender,Real Madrid,Portugal,26/02/1983,01/06/2017,27000000,80000,1,1000,0,0,No
+97,Marek Hamsik,Midfielder,Napoli,Slovakia,27/07/1983,01/06/2014,25000000,120000,7,1000,0,0,Yes

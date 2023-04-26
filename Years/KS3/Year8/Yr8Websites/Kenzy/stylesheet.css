@@ -1,0 +1,92 @@
+@charset "utf-8";
+#wrapper {
+	margin: 0px;
+	width: auto;
+}
+body {
+	background-color: #7B6B9C;
+	margin: 0px;
+	width: auto;
+	height: auto;
+	position: 0;
+}
+#header {
+	background-color: #FCC;
+	height: 250px;
+	width: 1345px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#Animation {
+	height: 100px;
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+
+
+
+
+#Main {
+	height: auto;
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #E67394;
+}
+
+#R1 {
+	float: left;
+	height: 100px;
+	width: 200px;
+}
+#R2 {
+	float: left;
+	height: 100px;
+	width: 200px;
+}
+#R3 {
+	float: left;
+	height: 100px;
+	width: 200px;
+}
+#R4 {
+	float: left;
+	height: 100px;
+	width: 200px;
+}
+H1 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 50px;
+	font-style: italic;
+	font-weight: bolder;
+	font-variant: normal;
+	color: #FFF;
+	text-align: center;
+	line-height: 20px;
+	text-transform: none;
+}
+H2 {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	text-align: justify;
+	font-weight: normal;
+	font-style: italic;
+	float: none;
+	color: #FFF;
+	line-height: normal;
+	text-transform: none;
+}
+
+
+
+Table {
+	border: 2px solid #29317B;
+	width: 800px;
+	height: 600px;
+}
+
+TD {
+	border: 2px solid #BD6394;
+}

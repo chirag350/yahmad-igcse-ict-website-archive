@@ -1,0 +1,119 @@
+@charset "utf-8";
+#wrapper {
+	margin: 0px;
+	width: 100%;
+}
+body {
+	background-color: #CCC;
+	margin: 0px;
+	background-image: url(Website%20Images/Background.jpg);
+}
+#header {
+	height: 110px;
+	width: 850px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #666;
+	background-image: url(Website%20Images/Maelstrom.jpg);
+}
+#animation {
+	height: 150px;
+	width: 850px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #bababa;
+	border: 1px solid #FF2D32;
+}
+#main {
+	background-color: #bababa;
+	height: 300px;
+	width: 850px;
+	margin-right: auto;
+	margin-left: auto;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-color: #FF2D32;
+	border-right-color: #FF2D32;
+	border-bottom-color: #FF2D32;
+	border-left-color: #FF2D32;
+}
+#Rollovers {
+	background-color: #F00;
+	height: 25px;
+	width: 850px;
+	margin-right: auto;
+	margin-left: auto;
+	border: 1px solid #FF2D32;
+}
+#R1 {
+	background-color: #F00;
+	float: left;
+	height: 25px;
+	width: 170px;
+}
+#R2 {
+	background-color: #F00;
+	float: left;
+	height: 25px;
+	width: 170px;
+}
+#R3 {
+	background-color: #F00;
+	float: left;
+	height: 25px;
+	width: 170px;
+}
+#R4 {
+	background-color: #F00;
+	float: left;
+	height: 25px;
+	width: 170px;
+}
+#R5 {
+	background-color: #F00;
+	float: left;
+	height: 25px;
+	width: 170px;
+}
+
+#R4 {
+	background-color: #F00;
+	height: 25px;
+	width: 170px;
+}
+H1 {
+	font-family: Rockwell;
+	font-size: 24px;
+	color: #FF2D32;
+	text-align: center;
+}
+P {
+	font-family: Rockwell;
+	color: #FF2D32;
+	text-align: center;
+	vertical-align: baseline;
+}
+TD {
+	border: medium solid #FF2D32;
+	text-align: center;
+}
+Table {
+	height: 300px;
+	width: 100%;
+	border: 1px solid #BABABA;
+	background-color: #BABABA;
+}
+
+LI {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: italic;
+	line-height: normal;
+	text-decoration: underline;
+	text-align: left;
+	color: #0000CC;
+	list-style-position: inside;
+	list-style-type: disc;
+}

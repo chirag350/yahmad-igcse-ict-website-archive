@@ -1,0 +1,328 @@
+Gamecode,GameName,Platform,Sale,Price,OnlineShop,Releaseyear,Genre,Publisher
+111555,007: Tomorrow Never Dies,PS,No,9.99,AM,1999,Shooter,ELA
+112555,Age of Empires II: The Age of Kings,PC,Yes,12.99,AM,1999,Strategy,MGS
+113555,Animal Crossing,GC,Yes,9.99,BB,2001,Simulation,NIN
+114555,Animal Crossing: City Folk,Wii,No,14.99,VI,2008,Simulation,NIN
+115555,Animal Crossing: New Leaf,3DS,No,9.99,BB,2012,Action,NIN
+116555,Animal Crossing: Wild World,DS,Yes,14.99,VI,2005,Simulation,NIN
+117555,Assassin's Creed,X360,No,9.99,AM,2007,Adventure,UBI
+118555,Assassin's Creed,PS3,Yes,9.99,TT,2007,Adventure,UBI
+119566,Assassin's Creed II,PS3,No,9.99,BB,2009,Action,UBI
+120566,Assassin's Creed II,X360,No,5.99,VI,2009,Action,UBI
+121566,Assassin's Creed III,PS3,Yes,12.99,BB,2012,Action,UBI
+122566,Assassin's Creed III,X360,No,9.99,VI,2012,Action,UBI
+123566,Assassin's Creed: Brotherhood,X360,Yes,9.99,TT,2010,Action,UBI
+124555,Assassin's Creed: Revelations,X360,No,9.99,AM,2011,Action,UBI
+125555,Assassin's Creed: Revelations,PS3,No,9.99,BB,2011,Action,UBI
+126566,Banjo-Kazooie,N64,No,9.99,TT,1998,Platform,NIN
+127555,Baseball,NES,Yes,12.99,BB,1983,Sports,NIN
+128555,Batman: Arkham Asylum,PS3,No,9.99,VI,2009,Action,EID
+129555,Batman: Arkham Asylum,X360,Yes,14.99,AM,2009,Action,EID
+130566,Battlefield 3,X360,No,9.99,AM,2011,Shooter,ELA
+131555,Battlefield 3,PS3,No,14.99,BB,2011,Shooter,ELA
+132555,Battlefield: Bad Company 2,X360,Yes,9.99,VI,2010,Shooter,ELA
+133566,Battlefield: Bad Company 2,PS3,No,9.99,TT,2010,Shooter,ELA
+134555,Big Brain Academy,DS,No,9.99,VI,2005,Misc,NIN
+135555,Big Brain Academy: Wii Degree,Wii,Yes,5.99,AM,2007,Misc,NIN
+136555,Brain Age 2: More Training in Minutes a Day,DS,No,12.99,AM,2005,Misc,NIN
+137566,Brain Age: Train Your Brain in Minutes a Day,DS,Yes,9.99,BB,2005,Misc,NIN
+138555,Burnout 3: Takedown,PS2,No,9.99,VI,2004,Racing,ELA
+139555,Call Of Duty 2: Big Red One,PS2,No,9.99,BB,2005,Shooter,ACT
+140555,Call of Duty 3,X360,Yes,9.99,VI,2006,Shooter,ACT
+141555,Call of Duty 4: Modern Warfare,X360,No,9.99,AM,2007,Shooter,ACT
+142555,Call of Duty 4: Modern Warfare,PS3,Yes,9.99,AM,2007,Shooter,ACT
+143555,Call of Duty: Black Ops,X360,No,9.99,TT,2010,Shooter,ACT
+144566,Call of Duty: Black Ops,PS3,No,9.99,VI,2010,Shooter,ACT
+145566,Call of Duty: Black Ops II,X360,Yes,12.99,BB,2012,Shooter,ACT
+146566,Call of Duty: Black Ops II,PS3,No,9.99,VI,2012,Shooter,ACT
+147566,Call of Duty: Finest Hour,PS2,Yes,14.99,AM,2004,Shooter,ACT
+148566,Call of Duty: Ghosts,X360,No,9.99,AM,2013,Shooter,ACT
+149566,Call of Duty: Ghosts,PS3,No,14.99,TT,2013,Shooter,ACT
+150555,Call of Duty: Modern Warfare 2,X360,Yes,9.99,VI,2009,Shooter,ACT
+151555,Call of Duty: Modern Warfare 2,PS3,No,9.99,BB,2009,Shooter,ACT
+152555,Call of Duty: Modern Warfare 3,X360,Yes,12.99,VI,2011,Shooter,ACT
+153555,Call of Duty: Modern Warfare 3,PS3,No,9.99,AM,2011,Shooter,ACT
+154555,Call of Duty: World at War,X360,No,14.99,TT,2008,Shooter,ACT
+155555,Call of Duty: World at War,PS3,Yes,9.99,BB,2008,Shooter,ACT
+156555,Club Penguin: Elite Penguin Force,DS,Yes,14.99,VI,2008,Adventure,DIS
+157566,Clubhouse Games,DS,No,9.99,BB,2006,Misc,NIN
+158566,Devil May Cry,PS2,No,9.99,VI,2001,Action,CAP
+159566,Diablo,PC,Yes,9.99,AM,1996,Role-Playing,ACT
+160566,Diablo III,PC,No,5.99,AM,2012,Role-Playing,ACT
+161566,Diddy Kong Racing,N64,Yes,12.99,BB,1997,Racing,NIN
+162566,Disney Epic Mickey,Wii,No,9.99,VI,2010,Platform,DIS
+163566,Donkey Kong,GB,No,14.99,TT,1994,Platform,NIN
+164555,Donkey Kong 64,N64,Yes,9.99,VI,1999,Platform,NIN
+165555,Donkey Kong Country,SNES,No,14.99,AM,1994,Platform,NIN
+166555,Donkey Kong Country 2: Diddy's Kong Quest,SNES,Yes,9.99,AM,1995,Platform,NIN
+167555,Donkey Kong Country 3: Dixie Kong's Double Trouble!,SNES,No,9.99,BB,1996,Platform,NIN
+168555,Donkey Kong Country Returns,Wii,No,9.99,VI,2010,Platform,NIN
+169555,Donkey Kong Land,GB,No,5.99,BB,1994,Platform,NIN
+170555,Dr. Mario,GB,Yes,12.99,VI,1989,Puzzle,NIN
+171577,Dr. Mario,NES,No,9.99,TT,1990,Puzzle,NIN
+172577,Dragon Ball Z: Budokai,PS2,Yes,9.99,AM,2002,Fighting,ATA
+173577,Dragon Ball Z: Budokai Tenkaichi 3,PS2,No,9.99,BB,2007,Fighting,ATA
+174577,Dragon Quest IX: Sentinels of the Starry Skies,DS,No,9.99,VI,2009,Role-Playing,NIN
+175577,Driver 2,PS,Yes,9.99,BB,2000,Action,ATA
+176577,Duck Hunt,NES,No,12.99,VI,1984,Shooter,NIN
+177577,EA Sports Active,Wii,Yes,9.99,AM,2009,Sports,ELA
+178577,English Training: Have Fun Improving Your Skills!,DS,No,14.99,TT,2006,Misc,NIN
+179577,Enter the Matrix,PS2,No,9.99,BB,2003,Action,ATA
+180577,ESPN NFL 2K5,PS2,Yes,14.99,VI,2004,Sports,SEG
+181577,Excitebike,NES,No,9.99,BB,1984,Racing,NIN
+182577,F-1 Race,GB,Yes,9.99,VI,1990,Racing,NIN
+183577,Fable,XB,No,9.99,AM,2004,Role-Playing,MGS
+184577,Fable II,X360,No,5.99,AM,2008,Role-Playing,MGS
+185577,Fable III,X360,Yes,12.99,BB,2010,Role-Playing,MGS
+186555,Far Cry 3,X360,No,9.99,TT,2012,Shooter,UBI
+187555,FIFA 07 Soccer,PS2,Yes,9.99,BB,2006,Sports,ELA
+188555,FIFA Soccer 06,PS2,No,9.99,VI,2005,Sports,ELA
+189555,FIFA Soccer 08,PS2,No,12.99,AM,2007,Sports,ELA
+190555,FIFA Soccer 10,PS3,Yes,9.99,AM,2009,Sports,ELA
+191555,FIFA Soccer 11,PS3,No,14.99,BB,2010,Sports,ELA
+192555,FIFA Soccer 11,X360,Yes,9.99,VI,2010,Sports,ELA
+193555,FIFA Soccer 12,PS3,No,14.99,TT,2011,Sports,ELA
+194599,FIFA Soccer 12,X360,No,9.99,VI,2011,Sports,ELA
+195599,FIFA Soccer 13,PS3,Yes,9.99,AM,2012,Action,ELA
+196599,FIFA Soccer 13,X360,No,9.99,AM,2012,Action,ELA
+197599,FIFA Soccer 14,X360,Yes,5.99,BB,2013,Sports,ELA
+198599,FIFA Soccer 2003,PS2,No,12.99,VI,2002,Sports,ELA
+199599,FIFA Soccer 2004,PS2,No,9.99,BB,2004,Sports,ELA
+200599,FIFA Soccer 2005,PS2,Yes,9.99,TT,2004,Sports,ELA
+201599,Final Fantasy X-2,PS2,No,5.99,TT,2003,Role-Playing,ELA
+202599,Flash Focus: Vision Training in Minutes a Day,DS,Yes,12.99,TT,2007,Misc,NIN
+203599,Forza Motorsport 2,X360,No,9.99,TT,2007,Racing,MGS
+204599,Forza Motorsport 3,X360,No,9.99,TT,2009,Racing,MGS
+205599,Forza Motorsport 4,X360,Yes,9.99,TT,2011,Racing,MGS
+206599,F-Zero,SNES,No,9.99,VI,1990,Racing,NIN
+207599,Gears of War,X360,Yes,9.99,AM,2006,Shooter,MGS
+208555,Gears of War 2,X360,No,12.99,AM,2008,Shooter,MGS
+209555,Gears of War 3,X360,No,9.99,BB,2011,Shooter,MGS
+210555,GoldenEye 007,N64,Yes,14.99,VI,1997,Shooter,NIN
+211555,Golf,NES,No,9.99,BB,1984,Sports,NIN
+212544,Guitar Hero III: Legends of Rock,PS2,Yes,14.99,VI,2007,Misc,ACT
+213544,Guitar Hero III: Legends of Rock,Wii,No,9.99,AM,2007,Misc,ACT
+214544,Guitar Hero III: Legends of Rock,X360,No,9.99,TT,2007,Misc,ACT
+215544,Guitar Hero: On Tour,DS,Yes,9.99,TT,2008,Misc,ACT
+216544,Guitar Hero: World Tour,Wii,No,5.99,TT,2008,Misc,ACT
+217544,Halo 2,XB,Yes,12.99,BB,2004,Shooter,MGS
+218544,Halo 3,X360,No,9.99,VI,2007,Shooter,MGS
+219544,Halo 3: ODST,X360,No,9.99,AM,2009,Shooter,MGS
+220544,Halo 4,X360,Yes,9.99,TT,2012,Shooter,MGS
+221544,Halo: Combat Evolved,XB,No,9.99,TT,2001,Shooter,MGS
+222544,Halo: Reach,X360,Yes,9.99,TT,2010,Shooter,MGS
+223544,Hannah Montana,DS,No,12.99,BB,2006,Action,DIS
+224555,Harry Potter and the Chamber of Secrets,PS2,No,9.99,VI,2002,Adventure,ELA
+225555,Harry Potter and the Sorcerer's Stone,PS,Yes,14.99,AM,2001,Action,ELA
+226555,Hitman 2: Silent Assassin,PS2,No,9.99,AM,2002,Action,EID
+227555,Imagine: Babyz,DS,No,14.99,BB,2007,Simulation,UBI
+228555,Imagine: Fashion Designer,DS,Yes,9.99,VI,2007,Simulation,UBI
+229555,James Bond 007: Agent Under Fire,PS2,No,9.99,BB,2001,Shooter,ELA
+230555,James Bond 007: Nightfire,PS2,Yes,12.99,VI,2002,Shooter,ELA
+231555,Just Dance,Wii,No,9.99,TT,2009,Misc,UBI
+232555,Just Dance 2,Wii,No,14.99,TT,2010,Misc,UBI
+233555,Just Dance 3,Wii,Yes,9.99,TT,2011,Misc,UBI
+234555,Just Dance 4,Wii,No,14.99,VI,2012,Misc,UBI
+235555,Killer Instinct,SNES,Yes,9.99,BB,1995,Fighting,NIN
+236555,Kinect Adventures!,X360,No,9.99,VI,2010,Misc,MGS
+237555,Kinect Sports,X360,No,9.99,AM,2010,Sports,MGS
+238555,Kirby Super Star Ultra,DS,No,5.99,AM,2008,Platform,NIN
+239522,Kirby's Dream Land,GB,No,12.99,BB,1992,Platform,NIN
+240522,Kung Fu,NES,Yes,9.99,VI,1985,Action,NIN
+241522,Kung Fu Panda,X360,No,9.99,BB,2008,Platform,ACT
+242522,Left 4 Dead,X360,Yes,9.99,VI,2008,Shooter,ELA
+243522,Left 4 Dead 2,X360,No,9.99,AM,2009,Shooter,ELA
+244522,LEGO Indiana Jones: The Original Adventures,X360,No,9.99,AM,2008,Adventure,ACT
+245522,LEGO Star Wars: The Video Game,PS2,Yes,9.99,BB,2005,Action,EID
+246522,Link's Crossbow Training,Wii,No,9.99,VI,2007,Shooter,NIN
+247522,Luigi's Mansion,GC,Yes,9.99,TT,2001,Action,NIN
+248522,Luigi's Mansion: Dark Moon,3DS,No,12.99,TT,2013,Adventure,NIN
+249522,Madden NFL 06,PS2,No,9.99,TT,2005,Sports,ELA
+250522,Madden NFL 07,PS2,Yes,14.99,AM,2006,Sports,ELA
+251522,Madden NFL 10,X360,No,9.99,BB,2009,Sports,ELA
+252522,Madden NFL 11,X360,Yes,14.99,VI,2010,Sports,ELA
+253522,Madden NFL 12,X360,No,9.99,BB,2011,Sports,ELA
+254522,Madden NFL 13,X360,No,9.99,VI,2012,Sports,ELA
+255522,Madden NFL 2002,PS2,Yes,9.99,AM,2001,Sports,ELA
+256522,Madden NFL 2003,PS2,No,5.99,TT,2002,Sports,ELA
+257522,Madden NFL 2004,PS2,Yes,12.99,TT,2004,Sports,ELA
+258555,Madden NFL 2005,PS2,No,9.99,TT,2004,Sports,ELA
+259555,Mario & Luigi: Bowser's Inside Story,DS,No,9.99,BB,2009,Role-Playing,NIN
+260555,Mario & Sonic at the London 2012 Olympic Games,Wii,Yes,9.99,VI,2011,Sports,SEG
+261555,Mario & Sonic at the Olympic Games,Wii,No,9.99,AM,2007,Sports,SEG
+262555,Mario & Sonic at the Olympic Games,DS,No,9.99,AM,2008,Sports,SEG
+263555,Mario & Sonic at the Olympic Winter Games,Wii,Yes,9.99,BB,2009,Sports,SEG
+264555,Mario & Sonic at the Olympic Winter Games,DS,No,9.99,VI,2009,Sports,SEG
+265555,Mario Kart 64,N64,Yes,9.99,BB,1996,Racing,NIN
+266555,Mario Kart 7,3DS,No,9.99,VI,2011,Racing,NIN
+267555,Mario Kart DS,DS,No,12.99,AM,2005,Racing,NIN
+268555,Mario Kart Wii,Wii,Yes,9.99,AM,2008,Racing,NIN
+269555,Mario Kart: Double Dash!!,GC,No,14.99,BB,2003,Racing,NIN
+270533,Mario Kart: Super Circuit,GBA,Yes,9.99,VI,2001,Racing,NIN
+271533,Mario Paint,SNES,No,14.99,BB,1992,Misc,NIN
+272533,Mario Party,N64,No,9.99,VI,1998,Misc,NIN
+273533,Mario Party 8,Wii,No,9.99,TT,2007,Misc,NIN
+274533,Mario Party 9,Wii,No,9.99,TT,2012,Misc,NIN
+275533,Mario Party DS,DS,Yes,5.99,TT,2007,Misc,NIN
+276533,Mario vs. Donkey Kong: Mini-Land Mayhem!,DS,No,12.99,VI,2010,Puzzle,NIN
+277533,Mass Effect,X360,Yes,9.99,BB,2007,Role-Playing,MGS
+278533,Mass Effect 2,X360,Yes,9.99,VI,2010,Role-Playing,ELA
+279533,Mass Effect 3,X360,No,9.99,AM,2012,Role-Playing,ELA
+280533,Medal of Honor,PS3,No,9.99,AM,2010,Shooter,ELA
+281533,Medal of Honor,PS,Yes,12.99,BB,1998,Shooter,ELA
+282533,Medal of Honor Heroes,PSP,No,9.99,VI,2006,Shooter,ELA
+283533,Medal of Honor: Frontline,PS2,Yes,14.99,BB,2002,Shooter,ELA
+284533,Medal of Honor: Rising Sun,PS2,No,9.99,VI,2003,Shooter,ELA
+285533,Metroid,NES,No,14.99,AM,1986,Adventure,NIN
+286533,Metroid Prime,GC,Yes,9.99,AM,2002,Shooter,NIN
+287533,Michael Jackson: The Experience,Wii,No,9.99,BB,2010,Misc,UBI
+288533,Microsoft Flight Simulator,PC,Yes,9.99,TT,1996,Simulation,MGS
+289555,Mike Tyson's Punch-Out!!,NES,No,5.99,TT,1987,Fighting,NIN
+290555,Monster Hunter 4,3DS,No,12.99,TT,2013,Role-Playing,CAP
+291555,Monster Hunter Freedom 3,PSP,No,9.99,AM,2010,Role-Playing,CAP
+292555,Monster Hunter Freedom Unite,PSP,Yes,9.99,AM,2008,Role-Playing,CAP
+293555,MySims,DS,No,9.99,BB,2007,Simulation,ELA
+294555,NBA Live 2005,PS2,No,9.99,VI,2004,Sports,ELA
+295555,NBA Street,PS2,Yes,12.99,BB,2001,Sports,ELA
+296555,Need for Speed III: Hot Pursuit,PS,No,9.99,VI,1998,Racing,ELA
+297555,Need for Speed Underground,PS2,Yes,14.99,AM,2003,Racing,ELA
+298555,Need for Speed Underground 2,PS2,No,9.99,AM,2004,Racing,ELA
+299555,Need for Speed: Most Wanted,PS2,No,14.99,BB,2005,Racing,ELA
+300555,New Super Mario Bros.,DS,Yes,9.99,VI,2006,Platform,NIN
+301555,New Super Mario Bros. 2,3DS,No,9.99,BB,2012,Platform,NIN
+302555,New Super Mario Bros. U,WiiU,Yes,9.99,TT,2012,Action,NIN
+303555,New Super Mario Bros. Wii,Wii,No,5.99,TT,2009,Platform,NIN
+304555,Nintendo Land,WiiU,No,12.99,TT,2012,Action,NIN
+305511,Nintendogs,DS,Yes,9.99,BB,2005,Simulation,NIN
+306511,Nintendogs + cats,3DS,No,9.99,VI,2011,Simulation,NIN
+307511,Pac-Man Collection,GBA,Yes,9.99,BB,2001,Puzzle,ATA
+308511,Personal Trainer: Cooking,DS,No,9.99,VI,2006,Misc,NIN
+309511,Pok?mon Stadium 2,N64,No,9.99,AM,2000,Strategy,NIN
+310511,Pokemon Black / White Version,DS,Yes,9.99,AM,2010,Role-Playing,NIN
+311511,Pokemon Black / White Version 2,DS,No,9.99,BB,2012,Role-Playing,NIN
+312511,Pokemon Crystal Version,GB,Yes,9.99,VI,2000,Role-Playing,NIN
+313511,Pokemon Diamond / Pearl Version,DS,No,12.99,BB,2006,Role-Playing,NIN
+314511,Pokemon Emerald Version,GBA,No,9.99,VI,2004,Role-Playing,NIN
+315511,Pokemon FireRed / LeafGreen Version,GBA,Yes,14.99,AM,2004,Role-Playing,NIN
+316511,Pokemon Gold / Silver Version,GB,No,9.99,AM,1999,Role-Playing,NIN
+317511,Pokemon Heart Gold / Soul Silver Version,DS,Yes,14.99,BB,2009,Role-Playing,NIN
+318511,Pokemon Mystery Dungeon: Explorers of Time / Darkness,DS,No,9.99,VI,2007,Role-Playing,NIN
+319511,Pokemon Pinball,GB,No,9.99,TT,1999,Misc,NIN
+320511,Pokemon Platinum Version,DS,Yes,9.99,TT,2008,Role-Playing,NIN
+321511,Pokemon Red / Green / Blue Version,GB,No,5.99,TT,1996,Role-Playing,NIN
+322511,Pokemon Ruby / Sapphire Version,GBA,Yes,12.99,AM,2002,Role-Playing,NIN
+323511,Pokemon Snap,N64,No,9.99,BB,1999,Simulation,NIN
+324511,Pokemon Stadium,N64,No,9.99,VI,1999,Strategy,NIN
+325555,Pokemon Trading Card Game,GB,Yes,9.99,BB,1998,Strategy,NIN
+326555,Pokemon X/Y,3DS,No,9.99,VI,2013,Role-Playing,NIN
+327555,Pokemon Yellow: Special Pikachu Edition,GB,Yes,9.99,AM,1998,Role-Playing,NIN
+328555,Professor Layton and the Curious Village,DS,No,12.99,AM,2007,Adventure,NIN
+329555,Professor Layton and the Diabolical Box,DS,No,9.99,BB,2007,Adventure,NIN
+330555,Professor Layton and the Unwound Future,DS,Yes,14.99,VI,2008,Adventure,NIN
+331555,Rayman,PS,No,9.99,BB,1995,Platform,UBI
+332555,Resident Evil 3: Nemesis,PS,Yes,14.99,VI,1999,Action,EID
+333555,Resident Evil 4,PS2,No,9.99,AM,2005,Action,CAP
+334555,Resident Evil 5,PS3,No,9.99,AM,2009,Action,CAP
+335555,Resident Evil 5,X360,Yes,9.99,TT,2009,Action,CAP
+336555,Resident Evil 6,PS3,No,5.99,TT,2012,Action,CAP
+337555,Rhythm Heaven,DS,Yes,12.99,TT,2008,Misc,NIN
+338555,Sega Superstars Tennis,X360,No,9.99,VI,2008,Sports,SEG
+339555,Skylanders: Spyro's Adventure,Wii,No,9.99,AM,2011,Action,ACT
+340555,Sonic and the Secret Rings,Wii,Yes,9.99,AM,2007,Platform,SEG
+341555,Sonic Heroes,PS2,No,9.99,BB,2003,Platform,SEG
+342555,Sonic Mega Collection Plus,PS2,Yes,9.99,VI,2004,Misc,SEG
+343555,Sonic Rush,DS,No,9.99,BB,2005,Platform,SEG
+344555,Sonic the Hedgehog,GEN,No,9.99,VI,1991,Platform,SEG
+345555,Sonic the Hedgehog 2,GEN,Yes,12.99,AM,1992,Platform,SEG
+346555,Spider-Man,PS,No,9.99,AM,2000,Action,ACT
+347555,Spider-Man 2,PS2,Yes,14.99,BB,2004,Action,ACT
+348555,Spider-Man: The Movie,PS2,No,9.99,VI,2002,Action,ACT
+349555,Star Fox,SNES,No,14.99,BB,1993,Shooter,NIN
+350555,Star Fox 64,N64,Yes,9.99,VI,1997,Shooter,NIN
+351555,Star Wars Episode I Racer,N64,No,9.99,AM,1999,Racing,NIN
+352555,Star Wars: Shadows of the Empire,N64,Yes,9.99,AM,1996,Action,NIN
+353555,Star Wars: The Old Republic,PC,No,5.99,TT,2011,Role-Playing,ELA
+354555,StarCraft,PC,No,12.99,TT,1998,Strategy,ACT
+355555,StarCraft II: Wings of Liberty,PC,Yes,9.99,TT,2010,Strategy,ACT
+356555,Street Fighter II Turbo,SNES,No,9.99,VI,1992,Fighting,CAP
+357555,Street Fighter II: The World Warrior,SNES,Yes,9.99,AM,1992,Fighting,CAP
+358555,Streets of Rage,GEN,No,9.99,AM,1990,Action,SEG
+359555,Super Mario 3D Land,3DS,No,9.99,BB,2011,Platform,NIN
+360555,Super Mario 64,N64,Yes,9.99,VI,1996,Platform,NIN
+361555,Super Mario 64,DS,No,9.99,BB,2004,Platform,NIN
+362555,Super Mario Advance,GBA,Yes,9.99,VI,2001,Platform,NIN
+363555,Super Mario All-Stars,SNES,No,9.99,TT,1993,Platform,NIN
+364555,Super Mario Bros.,NES,No,12.99,TT,1985,Platform,NIN
+365555,Super Mario Bros.,GB,Yes,9.99,TT,1999,Platform,NIN
+366555,Super Mario Bros. 2,NES,No,14.99,VI,1988,Platform,NIN
+367555,Super Mario Bros. 3,NES,Yes,9.99,BB,1988,Platform,NIN
+368555,Super Mario Bros. 3,GBA,No,14.99,VI,2003,Platform,NIN
+369555,Super Mario Bros.: The Lost Levels,NES,No,9.99,AM,1986,Platform,NIN
+370555,Super Mario Galaxy,Wii,Yes,9.99,AM,2007,Platform,NIN
+371555,Super Mario Galaxy 2,Wii,No,9.99,BB,2010,Platform,NIN
+372555,Super Mario Kart,SNES,Yes,5.99,VI,1992,Racing,NIN
+373555,Super Mario Land,GB,No,12.99,BB,1989,Platform,NIN
+374555,Super Mario Land 2: 6 Golden Coins,GB,No,9.99,VI,1992,Platform,NIN
+375555,Super Mario Land 3: Wario Land,GB,Yes,9.99,AM,1994,Platform,NIN
+376555,Super Mario Sunshine,GC,No,9.99,AM,2002,Platform,NIN
+377555,Super Mario World,SNES,Yes,9.99,BB,1990,Platform,NIN
+378555,Super Mario World,GBA,No,9.99,VI,2001,Platform,NIN
+379555,Super Mario World 2: Yoshi's Island,SNES,No,12.99,BB,1995,Platform,NIN
+380555,Super Mario World 2: Yoshi's Island,GBA,Yes,9.99,VI,2002,Platform,NIN
+381555,Super Paper Mario,Wii,No,14.99,TT,2007,Platform,NIN
+382555,Super Smash Bros.,N64,Yes,9.99,TT,1999,Fighting,NIN
+383555,Super Smash Bros. Brawl,Wii,No,14.99,TT,2008,Fighting,NIN
+384555,Super Smash Bros. Melee,GC,No,9.99,VI,2001,Fighting,NIN
+385555,Tetris,GB,Yes,9.99,BB,1989,Puzzle,NIN
+386555,Tetris,NES,No,12.99,VI,1988,Puzzle,NIN
+387555,The Elder Scrolls IV: Oblivion,PS3,Yes,9.99,AM,2007,Role-Playing,UBI
+388555,The Legend of Zelda,NES,No,14.99,AM,1986,Action,NIN
+389555,The Legend of Zelda: A Link to the Past,SNES,No,9.99,BB,1991,Action,NIN
+390555,The Legend of Zelda: A Link to the Past,GBA,Yes,14.99,VI,2002,Action,NIN
+391555,The Legend of Zelda: Link's Awakening,GB,No,9.99,TT,1992,Action,NIN
+392555,The Legend of Zelda: Majora's Mask,N64,Yes,9.99,TT,2000,Action,NIN
+393555,The Legend of Zelda: Ocarina of Time,N64,No,9.99,TT,1998,Action,NIN
+394555,The Legend of Zelda: Ocarina of Time,3DS,No,5.99,AM,2011,Action,NIN
+395555,The Legend of Zelda: Phantom Hourglass,DS,Yes,12.99,BB,2007,Action,NIN
+396555,The Legend of Zelda: Skyward Sword,Wii,No,9.99,VI,2011,Action,NIN
+397555,The Legend of Zelda: Spirit Tracks,DS,Yes,9.99,BB,2009,Action,NIN
+398555,The Legend of Zelda: The Wind Waker,GC,No,14.99,VI,2002,Action,NIN
+399555,The Legend of Zelda: Twilight Princess,Wii,No,9.99,AM,2006,Action,NIN
+400555,The Lord of the Rings: The Return of the King,PS2,Yes,9.99,AM,2003,Action,ELA
+401555,The Lord of the Rings: The Two Towers,PS2,No,9.99,BB,2002,Action,ELA
+402555,The Simpsons: Road Rage,PS2,Yes,5.99,VI,2001,Racing,ELA
+403555,The Sims,PC,No,12.99,BB,2000,Simulation,ELA
+404555,The Sims,PS2,No,9.99,VI,2003,Simulation,ELA
+405555,The Sims 2,PC,Yes,9.99,AM,2004,Simulation,ELA
+406555,The Sims 3,PC,No,9.99,TT,2009,Simulation,ELA
+407555,The Sims: Livin Large,PC,Yes,9.99,TT,2000,Misc,ELA
+408555,The Sims: Unleashed,PC,No,12.99,TT,2002,Simulation,ELA
+409555,The Sims: Vacation,PC,No,9.99,BB,2002,Simulation,ELA
+410555,Tom Clancy's Splinter Cell,PS2,Yes,14.99,VI,2003,Action,UBI
+411555,Tomb Raider,PS,No,9.99,AM,1996,Action,EID
+412555,Tomb Raider II,PS,Yes,14.99,AM,1997,Adventure,EID
+413555,Tomb Raider III: Adventures of Lara Croft,PS,No,9.99,BB,1997,Adventure,EID
+414555,Tomodachi Collection,DS,No,9.99,VI,2009,Misc,NIN
+415555,Tony Hawk's Pro Skater,PS,Yes,9.99,BB,1999,Sports,ACT
+416555,Tony Hawk's Pro Skater 2,PS,No,5.99,VI,2000,Sports,ACT
+417555,Tony Hawk's Pro Skater 3,PS2,Yes,12.99,AM,2001,Sports,ACT
+418555,Tony Hawk's Pro Skater 4,PS2,Yes,9.99,AM,2002,Sports,ACT
+419555,Tony Hawk's Underground,PS2,No,9.99,BB,2003,Sports,ACT
+420555,True Crime: Streets of LA,PS2,Yes,9.99,VI,2003,Action,ACT
+421555,Warcraft II: Tides of Darkness,PC,No,9.99,BB,1995,Strategy,ACT
+422555,WarioWare: Smooth Moves,Wii,No,9.99,TT,2006,Puzzle,NIN
+423555,Warzone 2100,PS,Yes,9.99,TT,1999,Strategy,EID
+424555,Wave Race 64,N64,No,12.99,TT,1996,Racing,NIN
+425555,Who wants to be a millionaire,PC,Yes,9.99,BB,1999,Misc,DIS
+426555,Wii Fit,Wii,No,14.99,VI,2007,Sports,NIN
+427555,Wii Fit Plus,Wii,Yes,9.99,BB,2009,Sports,NIN
+428555,Wii Music,Wii,No,9.99,VI,2008,Misc,NIN
+429555,Wii Party,Wii,No,12.99,AM,2010,Misc,NIN
+430555,Wii Play,Wii,Yes,9.99,AM,2006,Misc,NIN
+431555,Wii Sports,Wii,No,14.99,BB,2006,Sports,NIN
+432555,Wii Sports Resort,Wii,Yes,9.99,VI,2009,Sports,NIN
+433555,World of Warcraft,PC,No,14.99,BB,2004,Role-Playing,ACT
+434555,World of Warcraft: The Burning Crusade,PC,No,9.99,VI,2007,Role-Playing,ACT
+435555,Yoshi's Island DS,DS,Yes,9.99,AM,2006,Platform,NIN
+436555,Yoshi's Story,N64,No,9.99,AM,1997,Platform,NIN
+437555,Zelda II: The Adventure of Link,NES,Yes,5.99,BB,1987,Adventure,NIN

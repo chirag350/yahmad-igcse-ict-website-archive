@@ -1,0 +1,46 @@
+@charset "utf-8";
+h6 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	color: #63F;
+	font-weight: bold;
+}
+h5 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #63F;
+}
+
+table {
+	vertical-align: top;
+	list-style-type: square;
+	width: 100%;
+	border: 0px solid #999;
+	text-align: left;
+}
+td {
+	border: 2px solid #FFF;
+}
+h4 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #000;
+}
+h1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #000;
+	text-align: left;
+}
+h3 {
+	color: #000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+}
+
+
+
+li {
+	list-style-type: square;
+}

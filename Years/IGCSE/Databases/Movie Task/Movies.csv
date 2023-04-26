@@ -1,0 +1,85 @@
+Number,Movie Name,In Stock,Genre,Year,Type,Price,Sold,Rating,Duration(Min),Actors
+1,The mortal instruments,Yes,action,2013,Blue-ray,15,23,PG-13,130,lily collins
+2,white house down,Yes,action,2013,DVD,15,5,PG-13,131,channing tatum
+3,Rush Hour,Yes,action,1998,DVD,15,1,PG-13,98,Jackie Chan Chris Tucker Ken Leung
+4,terminator,Yes,action,1984,DVD,15,52,R,107,linda hamilton arnold schwarzenegger michael beihn
+5,mission impossible,Yes,action,1996,DVD,15,2,PG-13,110,tom cruise jon voight
+6,in time,no,action,2011,DVD,15,45,PG-13,109,justin timberlake amanda seyfried
+7,Galipolli,Yes,action,1981,DVD,15,2,PG,110,Mel gibson mark lee bill kerr
+8,Fast and Furious,Yes,action,2001,DVD,15,42,PG-13,106,vin diesel paul walker michelle rodrigues
+9,oblivion,Yes,action,2013,DVD,15,4,PG-13,124,tom cruise  morgan freeman  andrea riseborough
+10,the mortal instruments,no,action,2013,blue-ray,15,6,PG-13,130,Jamie campbell  lily collins  Robbie
+11,next,Yes,action,2007,DVD,15,3,PG-13,96,Nicholas cage  jullianne moore  jessica biel
+12,THOR,Yes,action,2011,blue-ray,15,7,PG-13,115,Chris hemsworth  anthony hopkins  tom hiddlestone
+13,The Prince Of Persia,Yes,action,2010,DVD,15,12,PG-13,116,jack gyllenhaal  gemma arterton  ben kingsley
+14,Avengers,Yes,action,2012,DVD,15,13,PG-13,143,Robert Downey  Nick Furry 
+15,Iron Man,Yes,action,2008,DVD,15,41,PG-13,126,Robert Downey  Terrence howard
+16,21 jump street,no,action,2012,DVD,15,2,R,109,channing tatum  Jonah hill  eric morson
+17,I am number four,no,action,2011,DVD,15,3,PG-13,109,alex pettyfer  timothy olyphant
+18,the hunger games,Yes,action,2012,blu-ray,15,40,PG-13,142,Jennifer Lawrence  josh hutcherson  liam hemsworth
+19,world war z,Yes,action,2013,DVD,15,2,PG-13,116,brad pitt  mireille enos  daniella kertesz
+20,The host,Yes,adventure,2013,DVD,15,4,PG-13,125,max irons
+21,frozen,no,adventure,2013,DVD,15,5,PG,102,kristen bell
+22,the first time,Yes,comedy,2013,DVD,15,6,PG-13,95,Dylan O'Brien
+23,the internship,Yes,comedy,2013,DVD,15,2,PG-13,109,Owen Wilson
+24,this is the end,no,comedy,2013,Blue-ray,15,5,R,107,james franco
+25,warm bodies,Yes,comedy,2013,DVD,15,7,PG-13,98,Nicholas hoult
+26,now you see me,Yes,Crime,2013,DVD,15,5,PG-13,115,jesse Eisenberg
+27,the call,no,Crime,2013,DVD,15,4,R,94,halle berry
+28,the great gatsby,Yes,drama,2013,DVD,15,16,PG-13,143,Leonardo DiCaprio
+29,We Bought A Zoo,Yes,Drama,2011,Blue-ray,15,12,PG-13,124,Matt Damon  Scarlett Johanson
+30,Flipped,Yes,Drama,2010,DVD,15,1,PG-13,90,Callan McAuliffe  Madeline Carroll
+31,One Day,Yes,Drama,2011,DVD,15,2,PG-13,107,Anne Hathaway  Jim Sturgess
+32,50/50,Yes,Drama,2011,DVD,15,4,PG-13,100,Joseph Gordon Levitt  Seth Rogen
+33,Beastly,Yes,Drama,2011,Blue-ray,15,3,PG-13,86,Alex Pettyfer  Vanessa Hudgens
+34,Stuck In Love,Yes,Drama,2012,DVD,15,5,PG-13,97,Lily Collins  Nat Wolff
+35,The Art Of Getting By,Yes,Drama,2011,DVD,15,12,PG-13,83,Freddie Highmore  Emma Roberts
+36,Bridge To Terabithia,Yes,Drama,2007,DVD,15,2,PG-13,96,Josh Hutcherson  AnnaSophia Robb
+37,500 Days Of Summer,Yes,Drama,2009,Blue-ray,15,3,PG-13,95,Joseph Gordon Levitt  Zooey Deschanel
+38,Silver Linings Playbook,Yes,Drama,2012,DVD,15,12,R,122,Bradley Cooper  Jennifer Lawrence
+39,About Time,Yes,Drama,2013,DVD,15,12,R,123,Rachel McAdams  Bill Nighy
+40,The Vow,Yes,Drama,2012,DVD,15,15,PG-13,104,Rachel McAdams  Channing Tatum  Sam Neill
+41,The Notebook,Yes,Drama,2004,DVD,15,2,PG-13,123,Gena Rowlands  James Garner  Rachel McAdams
+42,Dear John,Yes,Drama,2010,Blue-ray,15,2,PG-13,108,Channing Tatum  Amanda Seyfried  Richard Jenkins 
+43,The Perks Of Being A Wallflower,Yes,Drama,2012,DVD,15,4,PG-13,102,Logan Lerman  Emma Watson  Ezra Miller
+44,The Great Gatsby,Yes,Drama,2013,DVD,15,35,PG-13,143,Leonardo DiCaprio  Carey Mulligan  Joel Edgerton 
+45,A Walk To Remember,Yes,Drama,2002,Blue-ray,15,2,PG,101,Mandy Moore  Shane West  Peter Coyote
+46,Safe Haven,Yes,Drama,2013,DVD,15,4,PG-13,115,Julianne Hough  Josh Duhamel  Cobie Smulders
+47,The Last Song,Yes,Drama,2010,DVD,15,2,PG,107,Miley Cyrus  Liam Hemsworth
+48,Titanic,Yes,Drama,1997,Blue-ray,15,55,PG-13,194,Leonardo DiCaprio  Kate Winslet  Billy Zane
+49,Pride & Prejudice,Yes,Drama,2005,Blue-ray,15,2,PG,129,Keira Knightley  Matthew Macfadyen  Brenda Blethyn
+50,Jane Eyre,Yes,Drama,2011,Blue-ray,15,1,PG-13,120,Mia Wasikowska  Michael Fassbender  Jamie Bell 
+51,Letters To Juliet,Yes,Drama,2010,DVD,15,1,PG-13,105,Amanda Seyfried  Gael García Bernal  Vanessa Redgrave
+52,Charlie St Cloud,Yes,Drama,2010,DVD,15,6,PG-13,99,Zac Efron  Kim Basinger  Charlie Tahan
+53,Eat Pray Love,Yes,Drama,2010,DVD,15,5,PG-13,133,Julia Roberts  Javier Bardem  Richard Jenkins
+54,Marley & Me,no,Drama,2008,DVD,15,3,PG-13,115,Owen Wilson  Jennifer Aniston  Eric Dane
+55,Water For Elephants,Yes,Drama,2011,DVD,15,3,PG-13,120,Robert Pattinson  Reese Witherspoon
+56,Life Of Pi,Yes,Drama,2012,Blue-ray,15,22,PG-13,127,Suraj Sharma  Irrfan Khan  Adil Hussain
+57,The Lovely Bones,Yes,Drama,2009,Blue-ray,15,23,PG-13,135,Soairse Ronan   Rachel Weisz  Mark Wahlberg
+58,Now Is Good,No,Drama,2012,DVD,15,1,PG-13,103,Dakota Fanning  Josef Altin  Jeremy Irvine
+59,127 Hours,Yes,Drama,2010,DVD,15,2,PG-13,94,James Franco  Amber Tamblyn  Kate Mara
+60,Cloud Atlas,Yes,Drama,2012,Blue-ray,15,3,PG-13,172,Tom Hanks  Halle Berry  Hugh Grant 
+61,The Spectacular Now,Yes,Drama,2013,Blue-ray,15,5,PG-13,95,Miles Teller  Shailene Woodley  Kyle Chandler
+62,beautiful creatures,Yes,fantasy,2013,Blue-ray,15,6,PG-13,124,Alden Ehrenreich
+63,The Conjuring,Yes,Horror,2013,DVD,15,3,R,112,Patrick Wilson  Vera Farmiga  Ron Livingston
+64,Insidious: Chapter 1,Yes,Horror,2010,DVD,15,5,PG - 13,103,Patrick Wilson  Rose Byrne  Ty Simpkins
+65,Insidious: Chapter 2,Yes,Horror,2013,Blue-ray,15,2,PG - 13,106,Patrick Wilson  Rose Byrne  Barbara Hershey
+66,Sinister,No,Horror,2012,Blue-ray,15,5,R,110,Ethan Hawke  Juliet Rylance  James Ransone
+67,The Apparition,Yes,Horror,2012,Blue-ray,15,6,PG - 13,82,Ashley Greene  Sebastian Stan  Tom Felton
+68,The Grudge,Yes,Horror,2004,DVD,15,2,PG - 13,92,Sarah Michelle Gellar  Jason Behr  Clea DuVall
+69,The Ring,Yes,Horror,2002,DVD,15,5,PG - 13,115,Naomi Watts  Martin Henderson  Brian Cox
+70,Scream,No,Horror,1996,DVD,15,6,R,111,Neve Campbell  Courteney Cox  David Arquette
+71,Saw,Yes,Horror,2004,DVD,15,4,R,103,Cary Elwes  Leigh Whannell  Danny Glover
+72,Dark Ride,Yes,Horror,2006,DVD,15,6,R,94,Jamie-Lynn Sigler  Patrick Renna  David Clayton 
+73,The City Of The Dead,Yes,Horror,1960,DVD,15,4,PG - 13,78,Patricia Jessel  Dennis Lotis  Christopher Lee
+74,One Missed Call,Yes,Horror,2008,DVD,15,3,PG - 13,87,Edward Burns  Shannyn Sossamon  Ana Claudia Talancón 
+75,Orphan,No,Horror,2009,DVD,15,2,R,123,Vera Farmiga  Peter Sarsgaard  Isabelle Fuhrman
+76,Djinn,Yes,Horror,2013,DVD,15,6,PG - 13,100,Aiysha Hart  Ahd  Paul Luebke
+77,The Devil's Due,Yes,Horror,2014,DVD,15,2,R,89,Allison Miller  Zach Gilford  Sam Anderson
+78,Abduction,Yes,mystery,2011,DVD,15,5,PG-13,106,taylor lautner
+79,after earth,Yes,Sci-Fi,2013,DVD,15,2,PG-13,100,will smith
+80,The hunger games,Yes,thriller,2012,DVD,15,34,PG-13,146,josh hutcherson 
+81,fast and furious 6,Yes,thriller,2013,DVD,15,14,PG-13,130,vin diesel
+82,Step Up,Yes,Dance,2006,DVD,15,3,PG-13,104,Channing Tatum Jenna Dewan-Tatum
+83,Step Up 2,Yes,Dance,2008,DVD,15,5,PG-13,98,Robert Hoffman Briana Evigan Channing Tatum
+84,G.I. Joe: Retaliation,Yes,action,2013,Blue-ray,15,23,PG-14,110,Dwayne Johnson Channing Tatum Adrianne Palicki
